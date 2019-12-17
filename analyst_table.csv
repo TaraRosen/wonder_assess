@@ -1,4 +1,4 @@
-analyst,sourcing_score,writing_score,assigned_job,accepted_job,declined_job
+analyst,quality_score_sourcing,quality_score_writing,assigned_job,accepted_job,declined_job
 00360b3f177375b01b795a4be7b4686c,0.0,0.0,0,0,1
 00360b3f177375b01b795a4be7b4686c,0.0,0.0,1,0,0
 00360b3f177375b01b795a4be7b4686c,0.0,0.0,0,0,1
